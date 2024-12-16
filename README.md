@@ -9,12 +9,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/nhp291/count.svg?"  />
-</div>
-
-###
-
 <h1 align="center">hey there 👋</h1>
 
 ###
@@ -91,7 +85,7 @@
 
 ###
 
-<h3 align="left">🏆 GitHub Trophies:</h3>
+##🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=nhp291&theme=synthwave&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
