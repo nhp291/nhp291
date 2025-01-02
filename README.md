@@ -89,7 +89,7 @@
 
 ###
 
-🏆 GitHub Trophies:
+<h3>🏆 GitHub Trophies:</h3>
 
 ###
 
