@@ -15,7 +15,7 @@
 
 ###
 
-<p align="left">I'm Nguyen Hoai Phong from Ho Chi Minh City<br><br>🔭 I am currently focusing on developing my web programming and software development skills, building applications with Spring Boot, ReactJS, and especially passionate about developing web applications.<br>📚 I am learning more about TypeScript, Docker, AWS, and modern application deployment technologies to improve performance and scalability.<br>⚡ In my free time, I enjoy exploring new technologies and learning about AI.</p>
+<p align="left">I'm Nguyen Hoai Phong from Ho Chi Minh City<br><br>📚 I am learning more about TypeScript, Docker, AWS, and modern application deployment technologies to improve performance and scalability.<br>⚡ In my free time, I enjoy exploring new technologies and learning about AI.</p>
 
 ###
 
