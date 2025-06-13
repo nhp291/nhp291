@@ -35,8 +35,8 @@
 
 ### 🧑‍💻 Languages
 <p align="center">
-  <img class="pulse" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50">
   <img class="pulse" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50">
+  <img class="pulse" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50">
   <img class="pulse" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50">
 </p>
 
@@ -58,13 +58,8 @@
 ### 🧰 Tools / DevOps
 <p align="center">
   <img class="pulse" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50">
-  <img class="pulse" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50">
   <img class="pulse" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50">
   <img class="pulse" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="50">
-  <img class="pulse" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="50">
-  <img class="pulse" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="50">
-  <img class="pulse" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="50">
-  <img class="pulse" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg" width="50">
 </p>
 
 ---
