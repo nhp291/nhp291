@@ -95,15 +95,3 @@
 > ⚡ *"Code is like humor. When you have to explain it, it’s bad."*
 
 ---
-
-<!-- CSS animation: Works on HTML web viewers -->
-<style>
-.pulse {
-  animation: pulse 2s infinite;
-}
-@keyframes pulse {
-  0% { transform: scale(1); }
-  50% { transform: scale(1.1); }
-  100% { transform: scale(1); }
-}
-</style>
