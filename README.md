@@ -5,7 +5,7 @@
 
 <!-- Typing Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00c6ff&size=30&center=true&vCenter=true&lines=👋+Hi+there%2C+I'm+Nguyen+Hoai+Phong!;🚀+Fresher+Software+Developer;💙+Welcome+to+my+GitHub!" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00c6ff&size=30&center=true&vCenter=true&lines=👋+Hi%2C+I'm+Nguyen+Hoai+Phong!;🚀+Fresher+Software+Developer;💙+Welcome+to+my+GitHub!" />
 </p>
 
 <p align="center">
