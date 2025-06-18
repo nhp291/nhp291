@@ -5,7 +5,7 @@
 
 <!-- Typing Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00c6ff&size=30&center=true&vCenter=true&lines=👋+Hi%2C+I'm+Nguyen+Hoai+Phong!;🚀+Fresher+Software+Developer;💙+Welcome+to+my+GitHub!" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00c6ff&size=28&center=true&vCenter=true&lines=👋+I'm+Nguyen+Hoai+Phong!;🚀+Fresher+Software+Developer;💙+Welcome+to+my+GitHub!" />
 </p>
 
 <p align="center">
@@ -45,7 +45,7 @@
   <img class="pulse" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50">
   <img class="pulse" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50">
   <img class="pulse" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="50">
-  <img class="pulse" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="50">
+  <img class="pulse" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" width="60">
 </p>
 
 ### 🗄️ Databases
@@ -58,7 +58,7 @@
 ### 🧰 Tools / DevOps
 <p align="center">
   <img class="pulse" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50">
-  <img class="pulse" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50">
+  <img class="pulse" src="https://cdn-icons-png.freepik.com/256/270/270798.png" width="50">
   <img class="pulse" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="50">
 </p>
 
@@ -67,7 +67,7 @@
 ## 🔥 My Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nhp291&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nhp291&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=radical" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nhp291&layout=compact&langs_count=7&theme=dracula" height="150" />
 </div>
 
@@ -87,6 +87,23 @@
 
 ---
 
-> ⚡ *"Code is like humor. When you have to explain it, it’s bad."*
+> <div align="center"> ⚡ *"Code is like humor. When you have to explain it, it’s bad."* </div>
 
 ---
+
+## 📫 Let's Connect!
+
+<p align="center">
+  💬 If you want to collaborate, feel free to reach me via:
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/nguyen-hoai-phong/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp; &nbsp;
+  <a href="mailto:nhp2901@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
