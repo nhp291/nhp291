@@ -67,7 +67,7 @@
 ## 🔥 My Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nhp291&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nhp291&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nhp291&layout=compact&langs_count=7&theme=dracula" height="150" />
 </div>
 
