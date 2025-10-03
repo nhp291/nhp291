@@ -22,29 +22,28 @@
 </p>
 
 ---
-<table>
-<tr>
-<td width="55%" valign="top" style="vertical-align:top; padding:10px;">
-
-### 👨‍💻 About  
-**🚀 Fresher Software Developer** · Ho Chi Minh City  
-
-**🌱 Learning:** TypeScript · Docker · AWS  
-**🎯 Goal:** Build production-ready, scalable apps.  
-
----
-
->*"First, solve the problem. Then, write the code."* — John Johnson  
-
-</td>
-<td width="100%" align="center" style="padding:10px;">
-
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWxraDBqY2gyanFlNHZoZ2VkZTl1bmsyYmY4NHZ1enN6Zmx4aThrdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif" alt="fun gif" width="260" style="border-radius:12px;" />
-
-</td>
-</tr>
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top" align="center" style="padding:15px;">
+      <div align="left" style="max-width:400px; margin:auto;">
+        <h3>👨‍💻 About</h3>
+        <ul style="list-style:none; padding-left:0; line-height:1.6;">
+          <li>🌱 Learning & exploring new technologies every day</li>
+          <li>💻 Love turning ideas into interactive digital experiences</li>
+          <li>🚀 Open to collaboration on interesting projects</li>
+        </ul>
+        <hr style="margin:15px 0;">
+        <blockquote style="font-style:italic; color:#666;">
+          "First, solve the problem. Then, write the code." — John Johnson
+        </blockquote>
+      </div>
+    </td>
+    <td width="50%" align="center" style="padding:15px;">
+      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWxraDBqY2gyanFlNHZoZ2VkZTl1bmsyYmY4NHZ1enN6Zmx4aThrdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif" 
+           alt="fun gif" width="280" style="border-radius:12px;" />
+    </td>
+  </tr>
 </table>
-
 
 ---
 
