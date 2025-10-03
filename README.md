@@ -5,29 +5,46 @@
 
 <!-- Typing Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00c6ff&size=28&center=true&vCenter=true&lines=👋+I'm+Nguyen+Hoai+Phong!;🚀+Fresher+Software+Developer;💙+Welcome+to+my+GitHub!" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00c6ff&size=24&center=true&vCenter=true&lines=👋+I'm+Nguyen+Hoai+Phong!;🚀+Fresher+Software+Engineer;💙+Welcome+to+my+GitHub!" />
 </p>
 
 <p align="center">
-  📍 Ho Chi Minh City, Vietnam &nbsp;|&nbsp; 🚀 Fresher Software Developer
+  📍 Ho Chi Minh City, Vietnam &nbsp;|&nbsp; 🚀 Fresher Software Engineer
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nguyen-hoai-phong/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:nhp2901@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836&color=D14836"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
+<table>
+<tr>
+<td width="55%" valign="top" style="vertical-align:top; padding:10px;">
 
-## ✨ About Me
+### 👨‍💻 About  
+**🚀 Fresher Software Developer** · Ho Chi Minh City  
 
-> 🌱 **Currently learning:** TypeScript, Docker, AWS  
-> 🎯 **Goal:** Build robust, scalable, production-grade applications.  
-> ⚡ **Fun fact:** I love tinkering with new tech, automation and AI!
+**🌱 Learning:** TypeScript · Docker · AWS  
+**🎯 Goal:** Build production-ready, scalable apps.  
+
+---
+
+>*"First, solve the problem. Then, write the code."* — John Johnson  
+
+</td>
+<td width="100%" align="center" style="padding:10px;">
+
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWxraDBqY2gyanFlNHZoZ2VkZTl1bmsyYmY4NHZ1enN6Zmx4aThrdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif" alt="fun gif" width="260" style="border-radius:12px;" />
+
+</td>
+</tr>
+</table>
+
 
 ---
 
@@ -35,31 +52,39 @@
 
 ### 🧑‍💻 Languages
 <p align="center">
-  <img class="pulse" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50">
-  <img class="pulse" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50">
-  <img class="pulse" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50" title="TypeScript">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" title="JavaScript">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" title="Java">
 </p>
 
 ### ⚙️ Frameworks / Libraries
 <p align="center">
-  <img class="pulse" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50">
-  <img class="pulse" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50">
-  <img class="pulse" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="50">
-  <img class="pulse" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" width="60">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" title="React">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="50" title="Next.js">
+  <img src="https://nestjs.com/img/logo-small.svg" width="50" title="NestJS">
+  <img src="https://www.peanutsquare.com/wp-content/uploads/2024/04/Express.png" width="50" title="Express.js">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="50" title="Spring">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2560px-Tailwind_CSS_Logo.svg.png" width="50" title="TailwindCSS">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="50" title="Bootstrap">
 </p>
 
-### 🗄️ Databases
+### 🗄️ Databases / ORM
 <p align="center">
-  <img class="pulse" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50">
-  <img class="pulse" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50">
-  <img class="pulse" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="50">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50" title="MySQL">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="50" title="PostgreSQL">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="50" title="SQLite">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50" title="SQL Server">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="50" title="Firebase">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" width="50" title="Prisma">
 </p>
 
 ### 🧰 Tools / DevOps
 <p align="center">
-  <img class="pulse" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50">
-  <img class="pulse" src="https://cdn-icons-png.freepik.com/256/270/270798.png" width="50">
-  <img class="pulse" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="50">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50" title="Docker">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" width="50" title="Vercel">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="50" title="Azure">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50" title="Linux (Ubuntu)">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" width="50" title="WordPress">
 </p>
 
 ---
@@ -69,13 +94,16 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nhp291&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nhp291&layout=compact&langs_count=7&theme=dracula" height="150" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nhp291&theme=dracula&bg_color=282a36&hide_border=true" alt="activity graph" />
 </div>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=nhp291&theme=synthwave)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nhp291&theme=synthwave&no-frame=true&margin-w=15&margin-h=15" />
+</p>
 
 ---
 
@@ -87,7 +115,14 @@
 
 ---
 
-> <div align="center"> ⚡ *"Code is like humor. When you have to explain it, it’s bad."* </div>
+<div align="center">
+
+## ⚡💡 Inspiration  
+
+*"First, solve the problem. Then, write the code."*  
+— John Johnson  
+
+</div>
 
 ---
 
@@ -106,4 +141,3 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-
