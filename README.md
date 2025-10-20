@@ -5,11 +5,11 @@
 
 <!-- Typing Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00c6ff&size=24&center=true&vCenter=true&lines=👋+I'm+Nguyen+Hoai+Phong!;🚀+Fresher+Software+Engineer;💙+Welcome+to+my+GitHub!" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00c6ff&size=24&center=true&vCenter=true&lines=👋+I'm+Nguyen+Hoai+Phong!;🚀+Software+Engineer;💙+Welcome+to+my+GitHub!" />
 </p>
 
 <p align="center">
-  📍 Ho Chi Minh City, Vietnam &nbsp;|&nbsp; 🚀 Fresher Software Engineer
+  📍 Ho Chi Minh City, Vietnam &nbsp;|&nbsp; 🚀 Software Engineer
 </p>
 
 <p align="center">
