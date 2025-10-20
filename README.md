@@ -60,7 +60,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" title="React">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="50" title="Next.js">
-  <img src="https://nestjs.com/img/logo-small.svg" width="50" title="NestJS">
+  <!-- <img src="https://nestjs.com/img/logo-small.svg" width="50" title="NestJS"> -->
   <img src="https://www.peanutsquare.com/wp-content/uploads/2024/04/Express.png" width="50" title="Express.js">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="50" title="Spring">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2560px-Tailwind_CSS_Logo.svg.png" width="50" title="TailwindCSS">
@@ -71,17 +71,17 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50" title="MySQL">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="50" title="PostgreSQL">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="50" title="SQLite">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50" title="SQL Server">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="50" title="Firebase">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" width="50" title="Prisma">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="50" title="SQLite">
 </p>
 
 ### 🧰 Tools / DevOps
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50" title="Docker">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" width="50" title="Vercel">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="50" title="Azure">
+  <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="50" title="Azure"> -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50" title="Linux (Ubuntu)">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" width="50" title="WordPress">
 </p>
@@ -117,7 +117,6 @@
 <div align="center">
 
 ## ⚡💡 Inspiration  
-
 *"First, solve the problem. Then, write the code."*  
 — John Johnson  
 
