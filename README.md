@@ -88,13 +88,12 @@
 
 ---
 
-## 🔥 My Stats
-
-<!-- <div align="center">
+<!-- ## 🔥 My Stats
+ <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nhp291&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nhp291&layout=compact&langs_count=7&theme=dracula" height="150" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nhp291&theme=dracula&bg_color=282a36&hide_border=true" alt="activity graph" />
-</div> -->
+</div>
 
 ---
 
@@ -103,7 +102,7 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=nhp291&theme=synthwave&no-frame=true&margin-w=15&margin-h=15" />
 </p>
-
+ -->
 ---
 
 ## 👀 Profile Views
